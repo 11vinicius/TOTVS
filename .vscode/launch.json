@@ -1,0 +1,80 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "Depuração do idioma TOTVS",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "C:\\TOTVS\\Protheus\\Protheus\\bin\\smartclient\\smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true
+		}
+	],
+	"lastPrograms": [
+		{
+			"label": "u_ola",
+			"description": "<nil>"
+		},
+		{
+			"label": "u_ESTRUTURA",
+			"description": "<nil>"
+		},
+		{
+			"label": "u_ADVINHA",
+			"description": "<nil>"
+		},
+		{
+			"label": "u_ADIVINHA",
+			"description": "<nil>"
+		},
+		{
+			"label": "u_BANCO001",
+			"description": "<nil>"
+		},
+		{
+			"label": "u_",
+			"description": "<nil>"
+		},
+		{
+			"label": "SIGAADV",
+			"description": "<nil>"
+		},
+		{
+			"args": [],
+			"label": "U_CalcFator",
+			"description": ""
+		},
+		{
+			"label": "U_CalcFator",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_TDIALOG",
+			"description": "<nil>"
+		},
+		{
+			"args": [],
+			"label": "U_TDIALOG",
+			"description": ""
+		},
+		{
+			"label": "SIGA",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_DIALOG",
+			"description": "<nil>"
+		},
+		{
+			"label": "SIGAEST",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_Cadastro",
+			"description": "<nil>"
+		}
+	],
+	"lastProgramExecuted": "SIGA"
+}
